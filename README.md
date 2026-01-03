@@ -51,7 +51,7 @@ to **identify trends**, **optimize delivery**, and **improve customer satisfacti
 
 | Tool | Purpose |
 |-----|--------|
-| 📊 **Tableau / Googlecolab / EDA** | Dashboard creation |
+| 📊 **Tableau / Google Colab / EDA** | Dashboard creation |
 | 📁 **CSV Dataset** | Order & delivery data |
 | 📐 **Calculated Fields** | Metrics & KPIs |
 | 🎨 **Charts & Visuals** | Data storytelling |
