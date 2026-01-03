@@ -51,7 +51,7 @@ to **identify trends**, **optimize delivery**, and **improve customer satisfacti
 
 | Tool | Purpose |
 |-----|--------|
-| 📊 **Tableau / Googlecolab / Excel** | Dashboard creation |
+| 📊 **Tableau / Googlecolab / EDA** | Dashboard creation |
 | 📁 **CSV Dataset** | Order & delivery data |
 | 📐 **Calculated Fields** | Metrics & KPIs |
 | 🎨 **Charts & Visuals** | Data storytelling |
@@ -64,7 +64,9 @@ Clone the repository
 
 bash
 Copy code
+
 git clone https://github.com/Gurbirsingh3/pizza-dashboard.git
+
 Open the dashboard file using your BI tool
 
 Interact with filters and visuals
