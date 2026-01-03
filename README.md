@@ -100,7 +100,7 @@ Gurbir Singh
 
 📊 Data Analyst | Dashboard Developer
 
-🔗 GitHub - https://github.com/Gurbirsingh3/pizza-dashboard.git
+🔗 GitHub - https://github.com/Gurbirsingh3/
 
 LinkedIn - https://www.linkedin.com/in/gurbir-singh-8b5020389/
 
