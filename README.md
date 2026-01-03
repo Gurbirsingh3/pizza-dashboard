@@ -101,3 +101,10 @@ Gurbir Singh
 🔗 GitHub - https://github.com/Gurbirsingh3/pizza-dashboard.git
 
 LinkedIn - https://www.linkedin.com/in/gurbir-singh-8b5020389/
+
+### ⭐ If you find this interesting, feel free to connect & share feedback!
+
+### 🙏 Special Thanks:
+
+To SkillCircle™ and Sheetal Gupta for continuous guidance and mentorship throughout this analytical journey. 
+I’d love to hear your feedback!
